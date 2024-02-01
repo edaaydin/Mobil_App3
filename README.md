@@ -1,16 +1,9 @@
 # instagram_app
 
-A new Flutter project.
+Uzun bir süredir mobil uygulama arayüz tasarımı konusunda deneyim kazanıyorum. Geliştirmiş olduğum Instagram arayüz tasarımını sizlerle paylaşmak istiyorum 💫
+<br>
 
-## Getting Started
+<img width="1440" alt="Eda_Instagram" src="https://github.com/edaaydin/Mobil_App3/assets/119500243/9a0cb5f1-d54f-4511-b417-7823f8465916">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
